@@ -1,6 +1,6 @@
 # Windows Incident Response Data Collection
 
-"In case of emergency break glass and run the app" 
+"In case of emergency insert the USB" 
 
 This is a PowerShell tool that's created for quick use during incident response to a breached network or a compromised Windows system. It will collect useful volatile and non-volatile data before you shut down the infected device. 
 
