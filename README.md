@@ -25,8 +25,7 @@ The script will collect the following from your Windows system:
 
 ## Prerequisites
 
-PowerShell on target system 
-Administrator privileges on the target system
+PowerShell and Administrator privileges on target system 
 
 ## Executing
 
