@@ -8,20 +8,20 @@ It is recommended that you save this script on a USB and store it in a place whe
 
 ## Features
 
-The script will collect the following from your Windows system: 
+The script will collect the following data from your Windows system: 
 
-- Computer hardware information
-- Operating system information
-- User account information
-- Running processes information
-- Windows services information
-- Installed programs information
+- Computer hardware info
+- Operating system 
+- User accounts 
+- Running processes 
+- Windows services 
+- Installed programs 
 - Prefetch listings
-- Security update information
-- TCP/UDP connections information
-- Neighbor cache entries information
-- Network adapters having reachable neighbors information
-- Security event logs information
+- Security updates 
+- TCP/UDP connections 
+- Neighbor cache entries 
+- Network adapters having reachable neighbors 
+- Security event logs 
 
 ## Prerequisites
 
