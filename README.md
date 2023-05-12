@@ -2,7 +2,7 @@
 
 "In case of emergency break glass and run the app" 
 
-This is a PowerShell tool that's created for quick use during incident response to a breached network or a compromised Windows system. It will collect useful volatile and non-volatile data before shutting down the infected device. 
+This is a PowerShell tool that's created for quick use during incident response to a breached network or a compromised Windows system. It will collect useful volatile and non-volatile data before you shutdown the infected device. 
 
 It is recommended to save this script on a USB and store it in a place where it can be quickly accessed if a breach or compromise are suspected. 
 
