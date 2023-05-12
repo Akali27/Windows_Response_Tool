@@ -8,7 +8,7 @@ It is recommended that you save this script on a USB and store it in a place whe
 
 ## Features
 
-The script will collect the following: 
+The script will collect the following from your Windows system: 
 
 - Computer hardware information
 - Operating system information
